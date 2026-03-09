@@ -1,3 +1,7 @@
 .container {
     width: min(100% -30px, 1080px);
 }
+
+.main {
+    width: auto;
+}
